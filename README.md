@@ -1,0 +1,1 @@
+# OCR_Handwriting_BKAI
