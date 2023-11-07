@@ -39,11 +39,9 @@ python train.py
 
 ## Results
 
-The text detection model achieves an F1-score of 0.87 on the BKAI test set. The text recognition model achieves an accuracy of 0.92 on the BKAI test set. The OCR system achieves an end-to-end accuracy of 0.81 on the BKAI test set. Some examples of the OCR system output are shown below:
-
+The text detection model achieves an CER(Character Error Rate) is 0.66 point, i think it not a good number, but if i have free time, i will make the model better.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](^5^) file for details.
 
-You can download the data from this link: https://drive.google.com/drive/folders/1dlhSYYrLE0GMUOUV-GDmNcJs2_Tu4KYa?fbclid=IwAR2JHnQkTvMC0sKDtqtV7l7LxdBvmyTppV0Z7mDQe0NfJJ-qSZyhJkLm66A
